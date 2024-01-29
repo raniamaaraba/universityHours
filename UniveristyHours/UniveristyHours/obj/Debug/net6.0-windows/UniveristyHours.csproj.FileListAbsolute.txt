@@ -1,0 +1,17 @@
+F:\programs\UniveristyHours\UniveristyHours\bin\Debug\net6.0-windows\UniveristyHours.exe
+F:\programs\UniveristyHours\UniveristyHours\bin\Debug\net6.0-windows\UniveristyHours.deps.json
+F:\programs\UniveristyHours\UniveristyHours\bin\Debug\net6.0-windows\UniveristyHours.runtimeconfig.json
+F:\programs\UniveristyHours\UniveristyHours\bin\Debug\net6.0-windows\UniveristyHours.dll
+F:\programs\UniveristyHours\UniveristyHours\bin\Debug\net6.0-windows\UniveristyHours.pdb
+F:\programs\UniveristyHours\UniveristyHours\obj\Debug\net6.0-windows\UniveristyHours.csproj.AssemblyReference.cache
+F:\programs\UniveristyHours\UniveristyHours\obj\Debug\net6.0-windows\UniveristyHours.Form1.resources
+F:\programs\UniveristyHours\UniveristyHours\obj\Debug\net6.0-windows\UniveristyHours.csproj.GenerateResource.cache
+F:\programs\UniveristyHours\UniveristyHours\obj\Debug\net6.0-windows\UniveristyHours.GeneratedMSBuildEditorConfig.editorconfig
+F:\programs\UniveristyHours\UniveristyHours\obj\Debug\net6.0-windows\UniveristyHours.AssemblyInfoInputs.cache
+F:\programs\UniveristyHours\UniveristyHours\obj\Debug\net6.0-windows\UniveristyHours.AssemblyInfo.cs
+F:\programs\UniveristyHours\UniveristyHours\obj\Debug\net6.0-windows\UniveristyHours.csproj.CoreCompileInputs.cache
+F:\programs\UniveristyHours\UniveristyHours\obj\Debug\net6.0-windows\UniveristyHours.dll
+F:\programs\UniveristyHours\UniveristyHours\obj\Debug\net6.0-windows\refint\UniveristyHours.dll
+F:\programs\UniveristyHours\UniveristyHours\obj\Debug\net6.0-windows\UniveristyHours.pdb
+F:\programs\UniveristyHours\UniveristyHours\obj\Debug\net6.0-windows\UniveristyHours.genruntimeconfig.cache
+F:\programs\UniveristyHours\UniveristyHours\obj\Debug\net6.0-windows\ref\UniveristyHours.dll
